@@ -5,7 +5,11 @@ This repository contains a simple linear regression model implemented in Python.
 Key Features:
 
 Data preprocessing techniques
+
 Implementation of linear regression from scratch
+
 Model evaluation and visualization
+
 Jupyter Notebook for step-by-step understanding
+
 Feel free to clone, modify, and experiment with this linear regression model for your own projects or learning purposes. If you find it useful, please consider giving it a star ⭐️!
